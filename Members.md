@@ -3,7 +3,7 @@
 
 ### Daniel Constantin — Dev Lead
 
-A decentralization maximalist that escaped the corporate world to support a sustainable open-source ecosystem. Will help with aragonAPI repo
+A decentralization maximalist that escaped the corporate world to support a sustainable open-source ecosystem. Will help with aragonAPI repo.
 
 **Commitment**: Full time
 
