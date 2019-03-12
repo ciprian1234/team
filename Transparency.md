@@ -7,8 +7,7 @@
 | Sep 10, 2018 | Oct 22, 2018 | 51.25  | 25 EUR  | 1,281.25 EUR | 1, 2, 3    |
 | Nov 03, 2018 | Dec 08, 2018 | 103.00 | 50 USD  | 5,150.00 USD | 4, 5       |
 | Dec 10, 2018 | Jan 18, 2019 | 136.75 | 30 DAI  | 4,102.50 DAI | 6, 7, 8    |
-
-<!-- TODO unpaid milestone february-->
+| Feb 1, 2019  | Feb 28, 2019 | 75.5   | - DAI   | - DAI        | 9          |
 
 ## Gabi
 
