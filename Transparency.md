@@ -19,3 +19,11 @@
 | Jan 07, 2019 | Jan 16, 2019 | 48.73  | 30 DAI  | 1,461.90 DAI | 7, 8       |
 
 <!-- TODO unpaid milestone february-->
+
+### How to
+
+When creating milestones you might find useful to:
+
+- Track time with <https://toggl.com>
+- Retrieve GitHub activity with: <https://codesandbox.io/s/vq8vyyqx60>
+- Convert richtext to markdown with: <http://markitdown.medusis.com/>
