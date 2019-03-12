@@ -12,4 +12,4 @@ Check our [roadmap document](./Roadmap.md)
 
 ## Transparency
 
-See our transparency [document](./Transparency.md)
+See our [transparency document](./Transparency.md)
