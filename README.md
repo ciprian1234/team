@@ -1,9 +1,15 @@
 # Aragon Mesh
 
+We are a team focus on improve developer experience of Aragon Community 🦅 and help the adoption of Decentralized Autonomous Organizations by society
+
 ## Members
 
-Check out the members directory
+Check the [members document](./Members.md)
+
+## Roadmap
+
+Check our [roadmap document](./Roadmap.md)
 
 ## Transparency
 
-See [this document](./Transparency.md)
+See our transparency [document](./Transparency.md)
