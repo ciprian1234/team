@@ -32,4 +32,4 @@ Opened/discussed these issues:
 
 Also worked on a [Roadmap for the CLI](https://github.com/aragon/aragon-cli/pull/360) with Daniel and help people in #dev-help channel.
 
-![Time-tracking report](assets/milestone9-timing-report.PNG)
+![Time-tracking report](assets/milestone9-timing-report.png)
