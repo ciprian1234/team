@@ -17,13 +17,12 @@
 | Nov 19, 2018 | Dec 08, 2018 | 73.00  | 30 USD  | 2,190.00 USD | 3          |
 | Dec 09, 2018 | Jan 06, 2019 | 167.23 | 15 DAI  | 2,508.45 DAI | 4, 5, 6    |
 | Jan 07, 2019 | Jan 16, 2019 | 48.73  | 30 DAI  | 1,461.90 DAI | 7, 8       |
-
-<!-- TODO unpaid milestone february-->
+| Feb 1, 2019  | Feb 28, 2019 | 98.37  | - DAI   | - DAI        | 9          |
 
 ### How to
 
 When creating milestones you might find useful to:
 
-- Track time with <https://toggl.com>
+- Track time with <https://toggl.com>. For mac users a great app for this is Timing: <https://timingapp.com>
 - Retrieve GitHub activity with: <https://codesandbox.io/s/vq8vyyqx60>
 - Convert richtext to markdown with: <http://markitdown.medusis.com/>
