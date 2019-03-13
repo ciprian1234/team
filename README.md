@@ -6,9 +6,6 @@ We are a team focus on improve developer experience of Aragon Community 🦅 and
 
 Check the [members document](./Members.md)
 
-## Roadmap
-
-Check our [roadmap document](./Roadmap.md)
 
 ## Transparency
 
