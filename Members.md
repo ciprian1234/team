@@ -16,4 +16,10 @@ I’m a developer who has experience with C, Python and Javascript (mostly backe
 
 **Commitment**: Full time
 
-**Socials**: [GitHub](https://github.com/0xGabi), [Twitter](https://twitter.com/0xGabi)
+## Mathew Cormier — Dev
+
+**Socials**: [GitHub](https://github.com/macor161)
+
+Mathew is a software engineer from Quebec City, Canada. He worked on Espresso in 2018 and is a regular contributor on many open source projects. Before joining the Ethereum and Aragon communities, Mathew has worked for many years on the development of workflow management systems.
+
+**Commitment**: Full time
